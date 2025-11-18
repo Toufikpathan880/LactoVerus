@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LactoVerus</string>
+    <string name="app_logo">App Logo</string>
+    <string name="login">Login</string>
+    <string name="title">LactoVerus</string>
+    <string name="password">Password</string>
+    <string name="email_or_phone">Email or Phone</string>
+</resources>
